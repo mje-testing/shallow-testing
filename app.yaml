@@ -1,4 +1,4 @@
-application: adgar-skyloft-1
+application: adgar-skyloft-2
 runtime: python27
 api_version: 1
 threadsafe: true
